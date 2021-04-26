@@ -1,0 +1,6 @@
+{
+    "name": "yes-translate",
+    "description": "Ensures page can be Google translated",
+    "version": "1.0",
+    "manifest_version": 3
+  }
