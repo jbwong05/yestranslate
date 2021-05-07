@@ -1,0 +1,29 @@
+{
+  "name": "yestranslate",
+  "version": "1.1.0",
+  "description": "Ensures page can be translated",
+  "main": "script.js",
+  "scripts": {
+    "build:chrome": "./tasks/clean.sh && ./tasks/buildChrome.sh",
+    "build:firefox": "./tasks/clean.sh && ./tasks/buildFirefox.sh",
+    "clean": "./tasks/clean.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbwong05/yestranslate.git"
+  },
+  "keywords": [
+    "yestranslate",
+    "chrome",
+    "firefox",
+    "tranlsate",
+    "extension"
+  ],
+  "author": "Joshua Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbwong05/yestranslate/issues"
+  },
+  "homepage": "https://github.com/jbwong05/yestranslate#readme"
+}
