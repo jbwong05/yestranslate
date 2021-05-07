@@ -1,2 +1,4 @@
 *.crx
 *.pem
+manifest.json
+*.xpi
